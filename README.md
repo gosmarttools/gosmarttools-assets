@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/gosmarttools/gosmarttools-assets/actions/workflows/pages/pages-build-deployment/badge.svg?event=deployment)](https://github.com/gosmarttools/gosmarttools-assets/actions/workflows/pages/pages-build-deployment)
